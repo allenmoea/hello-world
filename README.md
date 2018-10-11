@@ -1,2 +1,1 @@
-# hello-world
-Just a respository
+A self-teaching newbie in programming.
